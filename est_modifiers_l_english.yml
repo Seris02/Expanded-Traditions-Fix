@@ -111,7 +111,7 @@ mod_est_desires_4_desc:0 "$tr_est_desires_4_delayed$"
 
 #Destruction
 mod_est_destruction_3_eradicated:0 "Planet Eradicated"
-mod_est_destruction_3_eradicated_desc:0 "The surface of this planet have been utterly destroyed, all traces of life removed from its surfaces. Even the seas and the atmosphere is gone."
+mod_est_destruction_3_eradicated_desc:0 "The surface of this planet has been utterly destroyed, all traces of life removed from its surfaces. Even the atmosphere and the seas are gone."
 
 #Industry
 mod_est_industry_5:0 "Forge World"
@@ -146,7 +146,7 @@ mod_est_cooperativity_5_machines_desc:0 "$tr_est_cooperativity_5_machines_desc$"
 
 #Piracy
 mod_est_piracy_finish:0 "Looted"
-mod_est_piracy_finish_desc:0 "This planet have been looted. Most things of value of use have been taken, much of what remained were destroyed. It will take time for us to rebuild."
+mod_est_piracy_finish_desc:0 "This planet have been looted. Most things of value or use have been taken, much of what remained was destroyed. It will take time for us to rebuild."
 
 #Spaceborn
 mod_est_spaceborn_5_habitat:0 "$tr_est_spaceborn_5$"
